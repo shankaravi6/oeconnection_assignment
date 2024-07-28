@@ -1,0 +1,11 @@
+I changed the api url for my purpose
+    const api_url = "https://localhost:44343";
+
+
+I used frontend port is 3000
+    //policy.WithOrigins("http://localhost:3001").AllowAnyHeader().AllowAnyMethod();
+    policy.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod();
+
+
+Installing Microsoft.EntityFrameworkCore.SqlServer for my local mssql connection
+  options.UseSqlServer("Server=DESKTOP-ORON3S0;Database=Foundation;Trusted_Connection=True;TrustServerCertificate=True;Encrypt=false");

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\seAssignment-master\\Interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|d:\\seassignment-master\\interview\\rl.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\seAssignment-master\\Interview\\RL.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Program.cs",
+              "ToolTip": "D:\\seAssignment-master\\Interview\\RL.Backend\\Program.cs",
+              "RelativeToolTip": "RL.Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:07:53.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
